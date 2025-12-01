@@ -1,0 +1,13 @@
+.result-card {
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+    background: #f9fafb;
+    font-size: 14px;
+}
+
+.footer-note {
+    margin-top: 16px;
+    font-size: 12px;
+    color: #6b7280;
+}
