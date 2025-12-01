@@ -1,4 +1,4 @@
-# NLP Studio: Multi Tool AI
+# ⚡ NLP Studio — Multi-Tool AI
 
 This project is a simple web application that lets you run several NLP tools on the same text in one place.
 
